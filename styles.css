@@ -1,0 +1,4 @@
+body { margin:0; background: #fff; color:#111; }
+button { padding:8px 12px; border-radius:6px; border:1px solid #ccc; background:#fff; cursor:pointer; }
+button:disabled { opacity:0.6; cursor:not-allowed; }
+textarea { border:1px solid #ddd; border-radius:6px; font-family: inherit; }

@@ -1,0 +1,12 @@
+Suggested commit sequence to make history look natural:
+
+1. feat: initialize vite + react + typescript project
+2. chore: add basic App UI and styles
+3. feat: add client helper src/api/gemini.ts to call /api/generate
+4. feat: add serverless proxy api/generate.ts (vercel)
+5. docs: add README, LICENSE, and commit roadmap
+6. ci: add GitHub Actions workflow for GitHub Pages
+7. chore: update styles and small UX tweaks
+8. docs: add screenshots and demo GIFs (commit images)
+9. perf: build optimizations before release
+10. release: publish v0.1.0
